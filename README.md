@@ -2,7 +2,7 @@
 ## Марко Каџбанов 233151
 ### CFG
 Фотографија од control flow graph-ot
-![Image](https://github.com/user-attachments/assets/fdc959d6-d424-4eb3-ade3-0499584d5712)
+![Image](https://github.com/user-attachments/assets/ce132a11-1668-4d48-90a0-444178fc25e3)
 
 3. Цикломатската комплексност е 9 , според формулата P + 1 , каде P е број на предикатни јазли добиваме 8 + 1 = 9
    
